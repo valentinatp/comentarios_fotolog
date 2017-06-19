@@ -1,3 +1,7 @@
+*{
+  font-family: 'Merriweather', serif;
+}
+
 body {
   background-color: white;
   color:black;
@@ -53,11 +57,19 @@ textarea, input{
 .rojo {
   color: red;
 }
+
+.botones{
+  display: inline-block;
+}
+
 footer{
   padding: 10px;
 }
 
-
-
 /* Estilos comentarios */
+
+.cuadrado{
+  background-color: #A29DA1;
+  width: 65%;
+}
 
