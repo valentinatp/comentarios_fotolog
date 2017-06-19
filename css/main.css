@@ -69,7 +69,17 @@ footer{
 /* Estilos comentarios */
 
 .cuadrado{
-  background-color: #A29DA1;
+  background-color: #FF27D4;
   width: 65%;
+  border: 3px solid black;
 }
 
+.tit{
+  color: whitesmoke;
+}
+
+.com{
+  color: #604E5C;
+  font-style: italic;
+  font-weight: bold;
+}

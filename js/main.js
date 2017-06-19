@@ -24,3 +24,6 @@ function guardarComentario(){
 	}
 } 
 
+function limpiarTodo(){
+	var cont = document.getElementById("cuadro").setAttribute("class","hidden");
+}
